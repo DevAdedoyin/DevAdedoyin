@@ -1,4 +1,4 @@
-<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" width="700"/>
+<img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" width="1000"/>
 
 ## Hi there 👋, I'm Adedoyin Idris.
 I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user friendly Web and Mobile applications. I do content writing sometimes, and love Mathematics, Statistics, Science and Technology in general.
