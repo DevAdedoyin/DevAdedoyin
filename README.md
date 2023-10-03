@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Adedoyin Idris.
 #### I am a Software Engineer
-![I am a Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Software Engineer]![vecteezy_sharing-jobs-illustration-for-website-web-poster_23902608](https://github.com/DevAdedoyin/DevAdedoyin/assets/59482569/2b69c4e6-7e92-42d9-888b-dc677e380926)
 
 I'm Adedoyin. I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user friendly Web and Mobile application. I do content writing sometimes, and love Mathematics, Statistics, Science and Technology in general.
 
@@ -18,3 +18,4 @@ Skills: Dart / JavaScript / Typescript / Python / Flutter / React / Django / Dja
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevAdedoyin)  
 
 ![Profile views](https://gpvc.arturio.dev/DevAdedoyin)  
+
