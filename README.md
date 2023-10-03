@@ -7,9 +7,7 @@
 
 I'm Adedoyin. I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user friendly Web and Mobile application. I do content writing sometimes, and love Mathematics, Statistics, Science and Technology in general.
 
-Skills: Dart / JavaScript / Typescript / Python / Flutter / React / Django / Django Rest Framework
-
-- 🔭 I’m currently working on this page. 
+Skills: Dart / JavaScript / Typescript / Python / Flutter / React / Django / Django Rest Framework / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevAdedoyin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DreezyBines)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://devadedoyin.com/)  
