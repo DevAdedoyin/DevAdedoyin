@@ -16,9 +16,4 @@ Skills: Dart / JavaScript / Typescript / Python / Flutter / React / Django / Dja
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAdedoyin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAdedoyin&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevAdedoyin)  
-
-![Profile views](https://gpvc.arturio.dev/DevAdedoyin)  
 
