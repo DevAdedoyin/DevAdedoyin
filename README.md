@@ -9,7 +9,8 @@ I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy bu
 🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS
 
 ## Example of Works
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F8498294-Crazy-Weather&psig=AOvVaw0O2C_t6qnUS2buD4Y87ORC&ust=1696435987057000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDq4tai2oEDFQAAAAAdAAAAABAE](https://dribbble.com/shots/8498294-Crazy-Weather)" width="300" >
+<img src="![weather](https://github.com/DevAdedoyin/DevAdedoyin/assets/59482569/6d713fdf-711f-417d-aa64-cf2de241d4df)
+" width="300" >
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevAdedoyin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DreezyBines)
 
