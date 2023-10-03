@@ -1,4 +1,4 @@
-![vecteezy_sharing-jobs-illustration-for-website-web-poster_23902608](https://github.com/DevAdedoyin/DevAdedoyin/assets/59482569/ae1e7416-f79d-4954-ab7f-355f6b2de8dd)
+<img src="![vecteezy_sharing-jobs-illustration-for-website-web-poster_23902608](https://github.com/DevAdedoyin/DevAdedoyin/assets/59482569/ae1e7416-f79d-4954-ab7f-355f6b2de8dd)" width="700"/>
 
 ## Hi there 👋, I'm Adedoyin Idris.
 I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user friendly Web and Mobile applications. I do content writing sometimes, and love Mathematics, Statistics, Science and Technology in general.
