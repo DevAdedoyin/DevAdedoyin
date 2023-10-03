@@ -2,7 +2,7 @@
 #### I am a Software Engineer
 ![I am a Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Adedoyin. I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user focused Web and Mobile application. I do content writing sometimes and love Mathematics, Statistics, and Technology in general.
+I'm Adedoyin. I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user friendly Web and Mobile application. I do content writing sometimes, and love Mathematics, Statistics, Science and Technology in general.
 
 Skills: Dart / JavaScript / Typescript / Python / Flutter / React / Django / Django Rest Framework
 
