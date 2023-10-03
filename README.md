@@ -9,7 +9,7 @@ I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy bu
 🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS
 
 ## Example of Works
-###<a href="https://hammerhead-app-4gqe5.ondigitalocean.app/">Weather Monitor 🌍</a>
+### <a href="https://hammerhead-app-4gqe5.ondigitalocean.app/">Weather Monitor 🌍</a>
 <img src="https://devadedoyin.com/static/media/weather.d1c7b7a0dd5a955c73e9.PNG" width="500" height="300" />   
 
   
