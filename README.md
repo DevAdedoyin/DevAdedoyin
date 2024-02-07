@@ -4,9 +4,9 @@
 I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user friendly Web and Mobile applications. I do content writing sometimes, and love Mathematics, Statistics, Science and Technology in general.
 
 ## Skills and Experience
-🎯 Dart | 📝 JavaScript | 💪 Typescript | 🐍 Python | 🐦 Flutter  
+🎯 Dart | 📝 JavaScript | 💪 Typescript | 🐍 Python | 🐦 Flutter | 🐦 Java | 🐦 Kotlin
   
-🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS
+🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS | 🐦 Android
 
 ## Example of Works
 ### <a href="https://hammerhead-app-4gqe5.ondigitalocean.app/">Weather Monitor 🌍</a>
