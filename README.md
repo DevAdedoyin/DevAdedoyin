@@ -9,7 +9,7 @@ I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy bu
 🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS | 📱 Android
 
 ## Example of Works
-### <a href="[https://hammerhead-app-4gqe5.ondigitalocean.app/](https://play.google.com/store/apps/details?id=com.weathermonitor.weatherapp)">Weather Monitor App🌍</a>
+### <a href="https://play.google.com/store/apps/details?id=com.weathermonitor.weatherapp">Weather Monitor App🌍</a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a900f7ea-c43d-4a0e-85cf-43f053ba09c5" width="200"/>
   <img src="https://github.com/user-attachments/assets/81a4796d-be8c-4386-a100-a4e5cc7f0677" width="200"/>
