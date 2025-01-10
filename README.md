@@ -9,8 +9,12 @@ I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy bu
 🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS | 📱 Android
 
 ## Example of Works
-### <a href="https://hammerhead-app-4gqe5.ondigitalocean.app/">Weather Monitor 🌍</a>
-<img src="https://devadedoyin.com/static/media/weather.d1c7b7a0dd5a955c73e9.PNG" width="500" height="300" />   
+### <a href="[https://hammerhead-app-4gqe5.ondigitalocean.app/](https://play.google.com/store/apps/details?id=com.weathermonitor.weatherapp)">Weather Monitor App🌍</a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a900f7ea-c43d-4a0e-85cf-43f053ba09c5" width="200"/>
+  <img src="https://github.com/user-attachments/assets/81a4796d-be8c-4386-a100-a4e5cc7f0677" width="200"/>
+  <img src="https://github.com/user-attachments/assets/7f12b185-869c-4fc6-8539-ac9a41057b4f" width="200"/>
+</p> 
 
 ## Social Links
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DevAdedoyin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/DreezyBines)
