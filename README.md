@@ -4,7 +4,7 @@
 I'm a professional Software Engineer and Machine Learning enthusiast. I enjoy building scalable and user friendly Web and Mobile applications. I do content writing sometimes, and love Mathematics, Statistics, Science and Technology in general.
 
 ## Skills and Experience
-🎯 Dart | 📝 JavaScript | 🔍💾 MySQL | 🐍 Python | 🐦 Flutter | ♨️ Java | 🌐📗📊 Excel/Google Sheets |🇰 Kotlin
+🎯 Dart | 📝 JavaScript | 🔍💾 MySQL | 🐍 Python | 🐦 Flutter | ♨️ Java | 📗📊 Excel/Google Sheets |🇰 Kotlin
   
 🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS | 📱 Android
 
