@@ -1,7 +1,7 @@
 <img src="https://cdn.pixabay.com/photo/2016/12/28/09/36/web-1935737_1280.png" width="1000"/>
 
 ## Hi there 👋, I'm Adedoyin Idris.
-I'm a professional Software Engineer and budding Data Analyst with a passion for Machine Learning. I enjoy building scalable, user-friendly web and mobile applications, and analyzing data to uncover insights that drive smart decisions. I occasionally write content and have a deep love for Mathematics, Statistics, Science, and Technology in general.
+I'm a professional Software Engineer and budding Data Analyst with a passion for Machine Learning. I enjoy building scalable, user friendly web and mobile applications, and analyzing data to uncover insights that drive smart decisions. I occasionally write content and have a deep love for Mathematics, Statistics, Science, and Technology in general.
 
 ## Skills and Experience
 📗📊 Excel/Google Sheets | 🎯 Dart | 📝 JavaScript | 🔍💾 SQL | 🐍 Python | 🐦 Flutter | 📈 Power BI | 📊 Tableau | 🧠 Data Analysis | 🧹 Data Cleaning | 🧮 SQL Queries
@@ -18,7 +18,7 @@ I'm a professional Software Engineer and budding Data Analyst with a passion for
 
 ### <a href="https://public.tableau.com/app/profile/adedoyin.idris2762/viz/BikeSalesDashboard_17470529582570/SalesDashboard?publish=yes">Bike Sales Analysis 🚴‍♀️</a>
 <p align="center">
-  <img src="<img width="2752" height="1486" alt="bike" src="https://github.com/user-attachments/assets/7d5734e7-bb8b-4b5a-bf4a-5311160f3dac" width="200"/>
+  <img width="2752" alt="bike" src="https://github.com/user-attachments/assets/7d5734e7-bb8b-4b5a-bf4a-5311160f3dac"/>
 </p>
 
 ## Social Links
