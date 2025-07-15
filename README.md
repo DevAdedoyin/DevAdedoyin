@@ -4,9 +4,7 @@
 I'm a professional Software Engineer and budding Data Analyst with a passion for Machine Learning. I enjoy building scalable, user friendly web and mobile applications, and analyzing data to uncover insights that drive smart decisions. I occasionally write content and have a deep love for Mathematics, Statistics, Science, and Technology in general.
 
 ## Skills and Experience
-📗📊 Excel/Google Sheets | 🎯 Dart | 📝 JavaScript | 🔍💾 SQL | 🐍 Python | 🐦 Flutter | 📈 Power BI | 📊 Tableau | 🧠 Data Analysis | 🧹 Data Cleaning | 🧮 SQL Queries
-  
-🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS | 📱 Android
+📗📊 Excel/Google Sheets | 🎯 Dart | 📝 JavaScript | 🔍💾 SQL | 🐍 Python | 🐦 Flutter | 📈 Power BI | 📊 Tableau | 🧠 Data Analysis | 🧹 Data Cleaning | 🧮 SQL Queries 🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS | 📱 Android
 
 ## Example of Works
 ### <a href="https://play.google.com/store/apps/details?id=com.weathermonitor.weatherapp">Weather Monitor App🌍</a>
