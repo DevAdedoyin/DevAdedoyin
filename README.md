@@ -7,8 +7,8 @@ I'm a professional Software Engineer and budding Data Analyst with a passion for
 📗📊 Excel/Google Sheets | 🎯 Dart | 📝 JavaScript | 🔍💾 SQL | 🐍 Python | 🐦 Flutter | 📈 Power BI | 📊 Tableau | 🧠 Data Analysis | 🧹 Data Cleaning | 🧮 SQL Queries 🌍 React | ⛓️ Django | 😴 Django Rest Framework | 💀 HTML | 💅 CSS | 📱 Android
 
 ## Example of Works
-### <a href="https://apps.apple.com/us/app/weather-monitor-app/id6751232705">Weather Monitor App IOS🌍</a>
-### <a href="https://play.google.com/store/apps/details?id=com.weathermonitor.weatherapp">Weather Monitor App ANDROID🌍</a>
+### <a href="https://apps.apple.com/us/app/weather-monitor-app/id6751232705?platform=iphone">Weather Monitor App IOS 🌍</a>
+### <a href="https://play.google.com/store/apps/details?id=com.weathermonitor.weatherapp">Weather Monitor App ANDROID 🌍</a>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a900f7ea-c43d-4a0e-85cf-43f053ba09c5" width="200"/>
   <img src="https://github.com/user-attachments/assets/81a4796d-be8c-4386-a100-a4e5cc7f0677" width="200"/>
